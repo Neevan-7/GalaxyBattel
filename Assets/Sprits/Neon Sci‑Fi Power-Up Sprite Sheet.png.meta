@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 6cb4f9ed45957024ca34e6470464fc7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3681795518125896976
+    second: "Neon Sci\u2011Fi Power-Up Sprite Sheet_0"
+  - first:
+      213: 1491692622957580964
+    second: "Neon Sci\u2011Fi Power-Up Sprite Sheet_1"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 16
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a21579898e83b410800000000000000
+      internalID: 1491692622957580964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 461
+        width: 222
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d52f8270e08594fb729e6306e31807
+      internalID: -1346105565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 461
+        width: 200
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e4451ae21dd646acc61571a1ecc08
+      internalID: 792760096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 476
+        width: 169
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e861412d6dc9fb94e8d335948c367c74
+      internalID: -1222314274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 282
+        width: 183
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc076896a2ee496489a7660e54c45023
+      internalID: 1901333611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 271
+        width: 195
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3865559b9a7a40af14ad368b99b6c
+      internalID: -1646924115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 286
+        width: 172
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02755e24806a7b4c9ab2bf3a752240c
+      internalID: 921252196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 155
+        width: 154
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97cada9fe91a344a885ec37b289c0f8
+      internalID: 888862255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 148
+        width: 141
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b41411e4ef4779449ec30903bccfef2
+      internalID: -780155933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 306
+        width: 174
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1093373e2c75b044bbbb0fdf5b552d5
+      internalID: -1834972020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 288
+        width: 167
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3314c44b2123cc6439389440c5d6535b
+      internalID: -1895257994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 470
+        width: 182
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a858b7b19112013418981ca53b05e125
+      internalID: 41777013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 455
+        width: 179
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df1074032fc4ff459e1007d49ac5eb3
+      internalID: -1458600277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 462
+        width: 163
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d5f324797a836458ecba4628053641
+      internalID: -312212870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 300
+        width: 113
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63145d2d5091073478ab6eb430e4ff1f
+      internalID: -2003466213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 330
+        width: 133
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3e9550928769478610a652ac72eee
+      internalID: 216521807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Power-Up Sprite Sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 142
+        width: 185
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fb35d63328d1448ab4e5ee2d345e51
+      internalID: 934879087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: edb7a0e13eacca64ba3945a4b32c2941
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_0": -1346105565
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_10": -1895257994
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_11": 41777013
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_12": -1458600277
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_13": -312212870
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_14": -2003466213
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_15": 216521807
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_16": 934879087
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_2": 792760096
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_3": -1222314274
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_4": 1901333611
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_5": -1646924115
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_6": 921252196
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_7": 888862255
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_8": -780155933
+      "Neon Sci\u2011Fi Power-Up Sprite Sheet_9": -1834972020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

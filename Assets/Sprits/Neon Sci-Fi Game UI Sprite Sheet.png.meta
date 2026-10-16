@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 790d1e8913404c74bb7bd332e98628ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8585863115608540503
+    second: Neon Sci-Fi Game UI Sprite Sheet_0
+  - first:
+      213: -2042704037690256886
+    second: Neon Sci-Fi Game UI Sprite Sheet_1
+  - first:
+      213: -7658298595546592322
+    second: Neon Sci-Fi Game UI Sprite Sheet_2
+  - first:
+      213: -8840392453574758848
+    second: Neon Sci-Fi Game UI Sprite Sheet_3
+  - first:
+      213: -2853364330367149321
+    second: Neon Sci-Fi Game UI Sprite Sheet_4
+  - first:
+      213: -1151806385845955539
+    second: Neon Sci-Fi Game UI Sprite Sheet_5
+  - first:
+      213: 2010927134432309949
+    second: Neon Sci-Fi Game UI Sprite Sheet_6
+  - first:
+      213: 3462270858980327005
+    second: Neon Sci-Fi Game UI Sprite Sheet_7
+  - first:
+      213: -5467921800189919582
+    second: Neon Sci-Fi Game UI Sprite Sheet_8
+  - first:
+      213: -7843669300834374701
+    second: Neon Sci-Fi Game UI Sprite Sheet_9
+  - first:
+      213: 1037415853967956011
+    second: Neon Sci-Fi Game UI Sprite Sheet_10
+  - first:
+      213: -4565766306969651940
+    second: Neon Sci-Fi Game UI Sprite Sheet_11
+  - first:
+      213: 2606910799837078389
+    second: Neon Sci-Fi Game UI Sprite Sheet_12
+  - first:
+      213: 3494613156822471051
+    second: Neon Sci-Fi Game UI Sprite Sheet_13
+  - first:
+      213: -2084168963469928244
+    second: Neon Sci-Fi Game UI Sprite Sheet_14
+  - first:
+      213: -7380938804427082197
+    second: Neon Sci-Fi Game UI Sprite Sheet_15
+  - first:
+      213: 6675451804703650218
+    second: Neon Sci-Fi Game UI Sprite Sheet_16
+  - first:
+      213: 5859305039853316787
+    second: Neon Sci-Fi Game UI Sprite Sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1017
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02573c108bd6a3e0800000000000000
+      internalID: -2042704037690256886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 871
+        width: 438
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb8294b00248b590800000000000000
+      internalID: -7658298595546592322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 853
+        width: 633
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ee1a1e6ed905580800000000000000
+      internalID: -8840392453574758848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 795
+        width: 400
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2410a1d136f300f0800000000000000
+      internalID: -1151806385845955539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2380d039f38eb10800000000000000
+      internalID: 2010927134432309949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 329
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e75b990057c0030800000000000000
+      internalID: 3462270858980327005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 135
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeb010d71a0e14b0800000000000000
+      internalID: -5467921800189919582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 28
+        width: 77
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db61241450b52390800000000000000
+      internalID: -7843669300834374701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 95
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b285e140934a56e00800000000000000
+      internalID: 1037415853967956011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 98
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1570a9fbb323a0c0800000000000000
+      internalID: -4565766306969651940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 29
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5732b697f8b9d2420800000000000000
+      internalID: 2606910799837078389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 39
+        width: 343
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b815fcf962c5f7030800000000000000
+      internalID: 3494613156822471051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 49
+        width: 469
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc81b70ce5b8313e0800000000000000
+      internalID: -2084168963469928244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 97
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b263a356343a19990800000000000000
+      internalID: -7380938804427082197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 27
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1f99e5c08f3ac50800000000000000
+      internalID: 6675451804703650218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baec1bc3ee605150800000000000000
+      internalID: 5859305039853316787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 875
+        width: 397
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6b724f2669c3940977ca3b08e2d3fe
+      internalID: 427828228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 772
+        width: 402
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8eb8cb016eb0047aea65f25674ce68
+      internalID: -96676790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 653
+        width: 402
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe987a184785664895cdea4a742a82e
+      internalID: 1484445249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 506
+        width: 334
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d446e1c56f364da5a69fafb9f41cd
+      internalID: 375072307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 355
+        width: 301
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294f8176eee62cb4bb910d6eb69aba20
+      internalID: -674846424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 237
+        width: 293
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a4d7cb6584d346a9e10aaba04aef2
+      internalID: -1846611010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 175
+        width: 312
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c60d58963c674a96387307b8422e9
+      internalID: -579780658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 641
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58982edcf0fc014581191e3b7565d09
+      internalID: -1935942833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 160
+        width: 519
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce81ec4dbe9dae47862073df85d5fee
+      internalID: 429177250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 742
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a246b511a7b2e9f4fa80146f9268e7f0
+      internalID: -12747454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 632
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90eb5799d6f448499010647fef4cb1d
+      internalID: -81434384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 745
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9174649d63ab8141adae26f3a80f5a6
+      internalID: -308939831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c832dadc439ddaa47810b1bd88027254
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neon Sci-Fi Game UI Sprite Sheet_0: 427828228
+      Neon Sci-Fi Game UI Sprite Sheet_18: 1484445249
+      Neon Sci-Fi Game UI Sprite Sheet_19: 375072307
+      Neon Sci-Fi Game UI Sprite Sheet_20: -674846424
+      Neon Sci-Fi Game UI Sprite Sheet_21: -1846611010
+      Neon Sci-Fi Game UI Sprite Sheet_22: -579780658
+      Neon Sci-Fi Game UI Sprite Sheet_23: -1935942833
+      Neon Sci-Fi Game UI Sprite Sheet_24: 429177250
+      Neon Sci-Fi Game UI Sprite Sheet_25: -12747454
+      Neon Sci-Fi Game UI Sprite Sheet_26: -81434384
+      Neon Sci-Fi Game UI Sprite Sheet_27: -308939831
+      Neon Sci-Fi Game UI Sprite Sheet_4: -96676790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

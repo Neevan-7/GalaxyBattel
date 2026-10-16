@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: d23414992e89a3446af089a26432c813
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3646720376850031639
+    second: Sci-Fi Shooter Sprite Sheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 858
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e9efa0faba7ca41bc7cdbdf23995f0
+      internalID: -975110888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 849
+        width: 125
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4e7b5a22d2c934094b5c442834fe4d
+      internalID: -253724850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 851
+        width: 151
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6e7978a0021664791306ba746289aa
+      internalID: 1807927366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 840
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1038186da12479418cf43d9cd7bff6b
+      internalID: 1354828682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 691
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc978ae904dbfa341a630d6fa03e9276
+      internalID: -664486012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 687
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aa4905f8b0eef4da9b576102b7d2e9
+      internalID: -1779695344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 686
+        width: 88
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b176ae986ec9cc64b906920eca5f0de6
+      internalID: 860662858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 678
+        width: 91
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19db2796a6cf6b3459aff5319ba05a33
+      internalID: -2067761793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 671
+        width: 90
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786c0da648ced841b6e817ffb2dc4c7
+      internalID: 539996429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 673
+        width: 86
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840d0891ab51cbb4d8a579823b2753c4
+      internalID: -1238636536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 669
+        width: 92
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4441677fbfcad244a989d04e45d39a2
+      internalID: -1534574185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 863
+        width: 157
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd5f71785149ec4095cafdcb23f6af0
+      internalID: 2033157755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 869
+        width: 131
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2bd9d9579ad854ab1e096b4b26117a
+      internalID: -639178331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 877
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa6153a007d3a344ac12ca10e4d9355
+      internalID: -802502807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 771
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db03564b14d14b41bf82b7966368e80
+      internalID: -414980032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 763
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c613d3dbdfba45b2c8abef379e883
+      internalID: 1482009927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 766
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6cae56ee5f1e94490c24dfb5712a0b
+      internalID: -572724804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 659
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bd64f75df3729498da34e492adf63e
+      internalID: 926922475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 688
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2e6fc8c2697a142b40a4073310854b
+      internalID: 1068928874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 207
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e0ea5aa70e29a4394ff0cda4558afc
+      internalID: -995080772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 214
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a357a6dc72af2b846b0a62236a1410b9
+      internalID: -2136278627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 553
+        width: 106
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffb7850e81c48649992e6bebcf18834
+      internalID: -476969559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 541
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c8f228e893cd24c8b145d689be68f5
+      internalID: -1966648701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 565
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c9aff2c95e8d64085d82649c7a5605
+      internalID: -286387894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 555
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302b8da874ed09441b32c6abda3f363d
+      internalID: 1266524080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 103
+        width: 168
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5091015, y: 0.47142187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3759b74a9dc211d4a9716b3766daeeeb
+      internalID: -1654325286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 35
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a7dee5eec8c414c8e8ff7302dcda43
+      internalID: 849755296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 880
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de36f4836dd8148ab349ebb746c8f0
+      internalID: -1645947764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 756
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290ba6b0402cb147b30bb7b23559cd4
+      internalID: 885783079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 389
+        width: 224
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dc5ee6c04f42e4ebf747477cca3a57
+      internalID: -1883642818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 380
+        width: 183
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5bd5d546c4f224bb4b8a12504c46f9
+      internalID: -1084543225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 256
+        width: 148
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa88a8cbebbb769449729b80f61529eb
+      internalID: -1687517274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 384
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600d4e922beed544fbb8f82c9c9591d2
+      internalID: 1373953438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 384
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8a4059231a3f7429805c09b52d18f7
+      internalID: -1583678540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 10
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aee3e6db609ce428747d2d375c13e1
+      internalID: 1622151778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 15
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf14c9ee8837c84fa90820aa28b274c
+      internalID: -1735610552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-Fi Shooter Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 13
+        width: 140
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2cf40cb1e909140b71ecaf2a1701d6
+      internalID: 1940277388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e92e34f37f1ca9a49b36b9f2077200c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sci-Fi Shooter Sprite Sheet_0: -975110888
+      Sci-Fi Shooter Sprite Sheet_1: -253724850
+      Sci-Fi Shooter Sprite Sheet_10: -1534574185
+      Sci-Fi Shooter Sprite Sheet_11: 2033157755
+      Sci-Fi Shooter Sprite Sheet_12: -639178331
+      Sci-Fi Shooter Sprite Sheet_13: -802502807
+      Sci-Fi Shooter Sprite Sheet_14: -414980032
+      Sci-Fi Shooter Sprite Sheet_15: 1482009927
+      Sci-Fi Shooter Sprite Sheet_16: -572724804
+      Sci-Fi Shooter Sprite Sheet_17: 926922475
+      Sci-Fi Shooter Sprite Sheet_18: 1068928874
+      Sci-Fi Shooter Sprite Sheet_19: -995080772
+      Sci-Fi Shooter Sprite Sheet_2: 1807927366
+      Sci-Fi Shooter Sprite Sheet_20: -2136278627
+      Sci-Fi Shooter Sprite Sheet_21: -476969559
+      Sci-Fi Shooter Sprite Sheet_22: -1966648701
+      Sci-Fi Shooter Sprite Sheet_23: -286387894
+      Sci-Fi Shooter Sprite Sheet_24: 1266524080
+      Sci-Fi Shooter Sprite Sheet_25: -1654325286
+      Sci-Fi Shooter Sprite Sheet_26: 849755296
+      Sci-Fi Shooter Sprite Sheet_27: -1645947764
+      Sci-Fi Shooter Sprite Sheet_28: 885783079
+      Sci-Fi Shooter Sprite Sheet_29: -1883642818
+      Sci-Fi Shooter Sprite Sheet_3: 1354828682
+      Sci-Fi Shooter Sprite Sheet_30: -1084543225
+      Sci-Fi Shooter Sprite Sheet_31: -1687517274
+      Sci-Fi Shooter Sprite Sheet_32: 1373953438
+      Sci-Fi Shooter Sprite Sheet_33: -1583678540
+      Sci-Fi Shooter Sprite Sheet_34: 1622151778
+      Sci-Fi Shooter Sprite Sheet_35: -1735610552
+      Sci-Fi Shooter Sprite Sheet_36: 1940277388
+      Sci-Fi Shooter Sprite Sheet_4: -664486012
+      Sci-Fi Shooter Sprite Sheet_5: -1779695344
+      Sci-Fi Shooter Sprite Sheet_6: 860662858
+      Sci-Fi Shooter Sprite Sheet_7: -2067761793
+      Sci-Fi Shooter Sprite Sheet_8: 539996429
+      Sci-Fi Shooter Sprite Sheet_9: -1238636536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

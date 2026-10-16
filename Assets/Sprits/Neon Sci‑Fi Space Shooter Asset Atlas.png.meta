@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 3b042208facd1fa48af9dd1ccddc0a32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1047344351221629850
+    second: "Neon Sci\u2011Fi Space Shooter Asset Atlas_0"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_0"
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 625
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e227731d0b90f8c4c80a75861c11cdd2
+      internalID: 480465275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_1"
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 739
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bad6461b03d754f9967e2401ac9967
+      internalID: -1422491781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_2"
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 737
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40569ee899f29b74c8108b88494de449
+      internalID: 464188949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_3"
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 741
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce3d8e5e26601640a0c5d54d7c1f2ee
+      internalID: 758564116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_4"
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 790
+        width: 154
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf3162d4e60b5b4d9cccbad282d8556
+      internalID: 1862438312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_5"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 684
+        width: 86
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05965935392bc214ba87f669d4287d0f
+      internalID: -414910127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_6"
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 709
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a0e1b39797e2f479ea9d05c71dc26f
+      internalID: 1343906502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_7"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 809
+        width: 166
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae80c82d8dcc87741a2c9e1eecf9de46
+      internalID: -536156551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_8"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 701
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db16ca60db052548a444d53b3b61ccc
+      internalID: 909482742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_9"
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 397
+        width: 204
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03feb51b4dbb2c49bcd20d27181dd21
+      internalID: -1578241026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_10"
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 395
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc1bffbeebde1a4f9c37952e2d75c8b
+      internalID: -286804856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_11"
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 400
+        width: 184
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a345bf7beed9b4d47983380f7c74db3a
+      internalID: -661210120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_12"
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 51
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bad137b328a6642916e70a8de9f00e
+      internalID: 305182675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_13"
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 859
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5324b642a65a02448ce02a66376977c
+      internalID: 880629331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Space Shooter Asset Atlas_14"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7ad20cde6bbb14a84fa32ca6f2791a
+      internalID: 2144154249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d8434f895bebf5e4eb9dcda28d6f2f4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_0": 480465275
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_1": -1422491781
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_10": -286804856
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_11": -661210120
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_12": 305182675
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_13": 880629331
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_14": 2144154249
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_2": 464188949
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_3": 758564116
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_4": 1862438312
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_5": -414910127
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_6": 1343906502
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_7": -536156551
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_8": 909482742
+      "Neon Sci\u2011Fi Space Shooter Asset Atlas_9": -1578241026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
