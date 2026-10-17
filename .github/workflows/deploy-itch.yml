@@ -1,0 +1,79 @@
+
+name: Build and Deploy GalaxyBattle to itch.io
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: galaxybattle-webgl-deploy
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    name: Build WebGL and publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout Unity project
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Cache Unity Library
+        uses: actions/cache@v4
+        with:
+          path: Library
+          key: Unity-Library-WebGL-${{ hashFiles('Assets/**', 'Packages/**', 'ProjectSettings/**') }}
+          restore-keys: |
+            Unity-Library-WebGL-
+
+      - name: Build Unity WebGL
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+        with:
+          targetPlatform: WebGL
+          buildName: GalaxyBattle
+          buildsPath: build
+
+      - name: Verify WebGL output
+        run: |
+          if [ ! -f build/WebGL/index.html ]; then
+            echo "ERROR: WebGL index.html not found."
+            echo "Check the Unity build output path."
+            find build -maxdepth 4 -type f | head -100
+            exit 1
+          fi
+
+      - name: Upload WebGL build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: GalaxyBattle-WebGL
+          path: build/WebGL/
+          if-no-files-found: error
+          retention-days: 7
+
+      - name: Install Butler
+        run: |
+          curl -fsSL \
+            https://broth.itch.zone/butler/linux-amd64/LATEST/archive/default \
+            -o butler.zip
+          unzip -o butler.zip
+          chmod +x butler
+          ./butler version
+
+      - name: Publish to itch.io
+        env:
+          BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
+        run: |
+          ./butler push build/WebGL \
+            naveen-7/galaxy-battele:html5
