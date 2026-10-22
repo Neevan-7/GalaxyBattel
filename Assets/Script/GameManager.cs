@@ -45,7 +45,7 @@ public class GameManager : MonoBehaviour
             return;
 
         IsGameOver = true;
-
+        SaveLeaderboardScore();
         Debug.Log("GAME OVER!");
 
         EnemyAI[] enemies = FindObjectsByType<EnemyAI>(
@@ -74,6 +74,21 @@ public class GameManager : MonoBehaviour
         IsGameOver = false;
         Score = 0;
         EnemiesDefeated = 0;
+    }
+
+    private void SaveLeaderboardScore()
+    {
+        const string BestScoreKey = "GD_PlayerBestScore";
+        const string LastRunScoreKey = "GD_LastRunScore";
+
+        PlayerPrefs.SetInt(LastRunScoreKey, Score);
+
+        int bestScore = PlayerPrefs.GetInt(BestScoreKey, 0);
+
+        if (Score > bestScore)
+            PlayerPrefs.SetInt(BestScoreKey, Score);
+
+        PlayerPrefs.Save();
     }
 
 }
