@@ -45,12 +45,12 @@ jobs:
           buildName: GalaxyBattle
           buildsPath: build
 
+      
       - name: Verify WebGL output
         run: |
-          if [ ! -f build/WebGL/index.html ]; then
+          if [ ! -f build/WebGL/GalaxyBattle/index.html ]; then
             echo "ERROR: WebGL index.html not found."
-            echo "Check the Unity build output path."
-            find build -maxdepth 4 -type f | head -100
+            find build/WebGL -maxdepth 4 -type f | head -100
             exit 1
           fi
 
@@ -58,7 +58,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: GalaxyBattle-WebGL
-          path: build/WebGL/
+          path: build/WebGL/GalaxyBattle/
           if-no-files-found: error
           retention-days: 7
 
@@ -75,5 +75,5 @@ jobs:
         env:
           BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
         run: |
-          ./butler push build/WebGL \
+          ./butler push build/WebGL/GalaxyBattle \
             naveen-7/galaxy-battele:html5
