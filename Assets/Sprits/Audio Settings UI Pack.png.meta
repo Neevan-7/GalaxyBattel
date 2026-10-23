@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 96aab1ece8084134ebb57dfbbc565345
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3567393568839678299
+    second: Audio Settings UI Pack_0
+  - first:
+      213: -8018178822436797441
+    second: Audio Settings UI Pack_1
+  - first:
+      213: -3062081026893006111
+    second: Audio Settings UI Pack_2
+  - first:
+      213: -2913625020780478702
+    second: Audio Settings UI Pack_3
+  - first:
+      213: 5560402079977107148
+    second: Audio Settings UI Pack_4
+  - first:
+      213: 686567689715602566
+    second: Audio Settings UI Pack_5
+  - first:
+      213: -8328229496980660303
+    second: Audio Settings UI Pack_6
+  - first:
+      213: 7490763872709929943
+    second: Audio Settings UI Pack_7
+  - first:
+      213: -1296473739429214958
+    second: Audio Settings UI Pack_8
+  - first:
+      213: 9034654331113126050
+    second: Audio Settings UI Pack_9
+  - first:
+      213: -6535451164236259064
+    second: Audio Settings UI Pack_10
+  - first:
+      213: 5651813836224716426
+    second: Audio Settings UI Pack_11
+  - first:
+      213: 4544966408987402753
+    second: Audio Settings UI Pack_12
+  - first:
+      213: -5180021082705012784
+    second: Audio Settings UI Pack_13
+  - first:
+      213: 990415065456342914
+    second: Audio Settings UI Pack_14
+  - first:
+      213: 6448462413987240309
+    second: Audio Settings UI Pack_15
+  - first:
+      213: -188481045614985967
+    second: Audio Settings UI Pack_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 981
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff34817d7d4b9b090800000000000000
+      internalID: -8018178822436797441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_2
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 833
+        width: 189
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea3496978d4185d0800000000000000
+      internalID: -3062081026893006111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_3
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 669
+        width: 173
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f70bb0b79b097d0800000000000000
+      internalID: -2913625020780478702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_4
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 843
+        width: 148
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccee0614b348a2d40800000000000000
+      internalID: 5560402079977107148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_5
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 841
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68452cb1dad278900800000000000000
+      internalID: 686567689715602566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_6
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 659
+        width: 167
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf9988b56f2c6c80800000000000000
+      internalID: -8328229496980660303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_7
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 669
+        width: 185
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db6431fd0a84f760800000000000000
+      internalID: 7490763872709929943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_9
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 507
+        width: 584
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8317a1f3a816d70800000000000000
+      internalID: 9034654331113126050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_10
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 499
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801e8ccdac96d45a0800000000000000
+      internalID: -6535451164236259064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 775
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8edfcc4db64f6e40800000000000000
+      internalID: 5651813836224716426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_14
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 483
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28778bc2149aebd00800000000000000
+      internalID: 990415065456342914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 827
+        width: 900
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9e5ed9f5d0b243aefb8774eb72dcc
+      internalID: -432042978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 682
+        width: 897
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f96ffc930be4b46be3da3dd623a9ab
+      internalID: 1608554851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 530
+        width: 903
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65efdf6b66bde7a429ba67dd37bd4178
+      internalID: 1328488625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 322
+        width: 219
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac30b07b66a051842a3e656e7e45ce80
+      internalID: -407487463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_8
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 339
+        width: 240
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b090e97e277ef9744807f1f95d5b8aa8
+      internalID: -863542292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_20
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 331
+        width: 214
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e748fcb2b264542931184e3117ff13
+      internalID: 1623138779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_21
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 309
+        width: 181
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6549f0681dfa34793b375da169fb97
+      internalID: -1541402476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_22
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 307
+        width: 170
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb10e06b29b1d64cbc8d0a2c0715c80
+      internalID: -117372018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 330
+        width: 220
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b64fda9f9d53b409d9bcd22d0bb732
+      internalID: -921372134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 330
+        width: 235
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eb5ef0be6744b47b5b233fea7b2012
+      internalID: -53517302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_15
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 409
+        width: 128
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e4128c807511c47b4654fa4e61c4d1
+      internalID: 1415595505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_16
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 215
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082ea13088316a42b184f9f4d8db0b1
+      internalID: 886030430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_23
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 135
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9311093b0ca42eb43bfefd16d3046443
+      internalID: -1838893033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_24
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 59
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c283284c30dc4b87253a3b74ef4e7
+      internalID: 250969624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_25
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 66
+        width: 173
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32da0612cbc39b0448a962d646cf5b54
+      internalID: -966827109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Audio Settings UI Pack_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 67
+        width: 174
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926d5fd789ade9f429216ea9293a5b0b
+      internalID: 380279149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a6a71d4e041994f439dbb326327468c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Audio Settings UI Pack_0: -432042978
+      Audio Settings UI Pack_12: -921372134
+      Audio Settings UI Pack_13: -53517302
+      Audio Settings UI Pack_15: 1415595505
+      Audio Settings UI Pack_16: 886030430
+      Audio Settings UI Pack_17: 1608554851
+      Audio Settings UI Pack_18: 1328488625
+      Audio Settings UI Pack_19: -407487463
+      Audio Settings UI Pack_20: 1623138779
+      Audio Settings UI Pack_21: -1541402476
+      Audio Settings UI Pack_22: -117372018
+      Audio Settings UI Pack_23: -1838893033
+      Audio Settings UI Pack_24: 250969624
+      Audio Settings UI Pack_25: -966827109
+      Audio Settings UI Pack_26: 380279149
+      Audio Settings UI Pack_8: -863542292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

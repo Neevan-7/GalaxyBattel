@@ -68,6 +68,10 @@ public class EnemyHealth : MonoBehaviour
 
         // Existing explosion effect
 
+        // Play enemy explosion sound.
+        GalaxyAudioManager.Instance?.EnemyExplosion();
+
+        // Spawn the existing visual explosion.
         if (BlastSpawner.Instance != null)
             BlastSpawner.Instance.SpawnBlast(transform.position);
 

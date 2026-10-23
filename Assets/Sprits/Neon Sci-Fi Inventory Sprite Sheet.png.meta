@@ -1,0 +1,1559 @@
+fileFormatVersion: 2
+guid: ce41943867f22e84bbb995a075ada5c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1468575183536109501
+    second: Neon Sci-Fi Inventory Sprite Sheet_0
+  - first:
+      213: -8027530584310955234
+    second: Neon Sci-Fi Inventory Sprite Sheet_1
+  - first:
+      213: 4236039556014709779
+    second: Neon Sci-Fi Inventory Sprite Sheet_2
+  - first:
+      213: -7273916418843726590
+    second: Neon Sci-Fi Inventory Sprite Sheet_3
+  - first:
+      213: 1604910980669323668
+    second: Neon Sci-Fi Inventory Sprite Sheet_4
+  - first:
+      213: 6066507133624505292
+    second: Neon Sci-Fi Inventory Sprite Sheet_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13cf8a177b789090800000000000000
+      internalID: -8027530584310955234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 65
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c92ce588f69ca30800000000000000
+      internalID: 4236039556014709779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 5
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d20f05e8bdd0b90800000000000000
+      internalID: -7273916418843726590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 0
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4993be2a80ac54610800000000000000
+      internalID: 1604910980669323668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 0
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3df07a810903450800000000000000
+      internalID: 6066507133624505292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 827
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b2496ce359d5d488a79ce64c8fc8b8
+      internalID: -90941720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 706
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3782b809722e96d4aaabbd8c6a8d33ed
+      internalID: 1282892788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 825
+        width: 134
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1616bdec97a6e4468d61a51eaef2858
+      internalID: -1495880816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 825
+        width: 133
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b804d4f7e195ee428431d63623975e8
+      internalID: 1763540999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 707
+        width: 134
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4b2e793e9e6884da85aba53baca41d
+      internalID: -664835481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 707
+        width: 133
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3873a4f15fe2d84681d3279f2680e6f
+      internalID: 537335814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 824
+        width: 133
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44943c3571367fe479f4555b881cd2e3
+      internalID: -2090405800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 708
+        width: 128
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23805b07b84606d4c823c37dc080f89e
+      internalID: 1193162113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 828
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bdce751c4d16a4e913fe9f85f497b1
+      internalID: -1052205231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 703
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de41ae3def3d8cf4ea5fa087d41dd317
+      internalID: 948687660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 825
+        width: 129
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6b1795913daf7409016bcb93213794
+      internalID: -51327599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 825
+        width: 135
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce996a140963a14c896553c2ea7c3ef
+      internalID: -412432992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 708
+        width: 135
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d088824ad16f546ae30e1b9d147235
+      internalID: -636453313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 702
+        width: 129
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c041922ef5b07ea4ba7e3ed7eaf19ce3
+      internalID: 313648114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 519
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551fca4b0ac128c4586dcf39e379eb2d
+      internalID: -1866706586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 399
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a47f6a390eaa4f9ee31c5311d2e88
+      internalID: 552792732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 280
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302daafeb6cd72a44aaf471e8ab9b398
+      internalID: 32364336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 517
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d041ea9380535124f97232a7c148182e
+      internalID: -1398589674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 400
+        width: 116
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34566fc7d29d2c84fac4d1aa56387863
+      internalID: 739459820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 278
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a7218d667808744b5b01b76c90ff8d
+      internalID: -1907830143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 519
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3935f6aaf52637d42a757ff8f3a4e5d2
+      internalID: 1883527709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 401
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9dfb8207bfd714cbad1f45e833a350
+      internalID: 965880369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 278
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefc3d270d420464085f846a82eac84f
+      internalID: -156675420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 277
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b713787c3ad38948a54b7fa8e2dceb4
+      internalID: -1018329677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 401
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8527293ab8ea348a4da20bee4f424f
+      internalID: -1394528566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 517
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358fee94780da1c4d817fe49194435ba
+      internalID: 992308168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 521
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e12aa810dd8c54e88a632adb41fbd0
+      internalID: 1087627418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 399
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e730d99538a1259499bf34ef65853536
+      internalID: -610026226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 517
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5a1d5d57686ed4c96c645eeb753517
+      internalID: -264261660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 284
+        width: 116
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a506014c916cb35448d9b3d1bb793f66
+      internalID: -2061582924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 281
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e13ccc104648e647aa1c8750192cfc7
+      internalID: 1869270824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 284
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641583c2448f7e24a9b803bbbfc158f4
+      internalID: -240174333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 283
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fb6900f5e3b784f85f2f83afdcfbfa
+      internalID: 285131033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 401
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c76c000cef6d4bac801a125e79751
+      internalID: 2131186642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 521
+        width: 117
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730cb1f3c1474ca49abe7080797b57ce
+      internalID: 273164749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 401
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1de2e8e72e7143b91836dcbef689c
+      internalID: 193668440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 398
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6935ecc5d0a95242a0294a7e76a6a92
+      internalID: 694993234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 523
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88a90afa5c65644395a9af7e0fe9fc6
+      internalID: -1475686444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 829
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9367b8f8cf6280f41af9e7ddedde9ce0
+      internalID: -1126197686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 831
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049a704ed2e96c459e5087736baac7a
+      internalID: 312508121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 832
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8b2100f50a2b249bc788ace87df3db
+      internalID: 1325093918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 826
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b57ae10781155498d06733e1042ec2
+      internalID: 369535176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 830
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5147887b94e1c44893075ef26554067
+      internalID: 1739773022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 710
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aab92fbda1b6534aa24bfb6865c1172
+      internalID: -1820900437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 712
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50674726aa4538b40a8b350c6c1bbc13
+      internalID: 57580869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 710
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748423e3d536cc74aa500a06b02ef314
+      internalID: 1102695903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 712
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12638488de1abe34bbd9236d4e830b01
+      internalID: -2076038565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 709
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994bff9f80bf57441803cb0ad8983803
+      internalID: -1397836475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 82
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5817d194e88edae4fa1e7016119f75dc
+      internalID: 1344726701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 80
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af699385e8aa8da4c9988d1c109f141a
+      internalID: 1089370449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 80
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc2d92e5f6fe8d49996b3157041fe2e
+      internalID: -173525430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 80
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86908fbd3ec0cb48a9b8013fdc491cb
+      internalID: -1260496157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 81
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392fb407be3621e418c5c0c5e8af9d13
+      internalID: -452414969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 78
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13adf84c34ace3346bbda67a5350b9a3
+      internalID: 597499877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 78
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1b5856cde18ff4c86e1c6b14263600
+      internalID: 225878947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Inventory Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 58
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8dc2f03d85aa4887c99c06daa73ba
+      internalID: -358035396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7cd137147cb73a648878470309e32bde
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neon Sci-Fi Inventory Sprite Sheet_0: -90941720
+      Neon Sci-Fi Inventory Sprite Sheet_10: 537335814
+      Neon Sci-Fi Inventory Sprite Sheet_11: -2090405800
+      Neon Sci-Fi Inventory Sprite Sheet_12: 1193162113
+      Neon Sci-Fi Inventory Sprite Sheet_13: -1052205231
+      Neon Sci-Fi Inventory Sprite Sheet_14: 948687660
+      Neon Sci-Fi Inventory Sprite Sheet_15: -51327599
+      Neon Sci-Fi Inventory Sprite Sheet_16: -412432992
+      Neon Sci-Fi Inventory Sprite Sheet_17: -636453313
+      Neon Sci-Fi Inventory Sprite Sheet_18: 313648114
+      Neon Sci-Fi Inventory Sprite Sheet_19: -1866706586
+      Neon Sci-Fi Inventory Sprite Sheet_20: 552792732
+      Neon Sci-Fi Inventory Sprite Sheet_21: 32364336
+      Neon Sci-Fi Inventory Sprite Sheet_22: -1398589674
+      Neon Sci-Fi Inventory Sprite Sheet_23: 739459820
+      Neon Sci-Fi Inventory Sprite Sheet_24: -1907830143
+      Neon Sci-Fi Inventory Sprite Sheet_25: 1883527709
+      Neon Sci-Fi Inventory Sprite Sheet_26: 965880369
+      Neon Sci-Fi Inventory Sprite Sheet_27: -156675420
+      Neon Sci-Fi Inventory Sprite Sheet_28: -1018329677
+      Neon Sci-Fi Inventory Sprite Sheet_29: -1394528566
+      Neon Sci-Fi Inventory Sprite Sheet_30: 992308168
+      Neon Sci-Fi Inventory Sprite Sheet_31: 1087627418
+      Neon Sci-Fi Inventory Sprite Sheet_32: -610026226
+      Neon Sci-Fi Inventory Sprite Sheet_33: -264261660
+      Neon Sci-Fi Inventory Sprite Sheet_34: -2061582924
+      Neon Sci-Fi Inventory Sprite Sheet_35: 1869270824
+      Neon Sci-Fi Inventory Sprite Sheet_36: -240174333
+      Neon Sci-Fi Inventory Sprite Sheet_37: 285131033
+      Neon Sci-Fi Inventory Sprite Sheet_38: 2131186642
+      Neon Sci-Fi Inventory Sprite Sheet_39: 273164749
+      Neon Sci-Fi Inventory Sprite Sheet_40: 193668440
+      Neon Sci-Fi Inventory Sprite Sheet_41: 694993234
+      Neon Sci-Fi Inventory Sprite Sheet_42: -1475686444
+      Neon Sci-Fi Inventory Sprite Sheet_43: -1126197686
+      Neon Sci-Fi Inventory Sprite Sheet_44: 312508121
+      Neon Sci-Fi Inventory Sprite Sheet_45: 1325093918
+      Neon Sci-Fi Inventory Sprite Sheet_46: 369535176
+      Neon Sci-Fi Inventory Sprite Sheet_47: 1739773022
+      Neon Sci-Fi Inventory Sprite Sheet_48: -1820900437
+      Neon Sci-Fi Inventory Sprite Sheet_49: 57580869
+      Neon Sci-Fi Inventory Sprite Sheet_50: 1102695903
+      Neon Sci-Fi Inventory Sprite Sheet_51: -2076038565
+      Neon Sci-Fi Inventory Sprite Sheet_52: -1397836475
+      Neon Sci-Fi Inventory Sprite Sheet_53: 1344726701
+      Neon Sci-Fi Inventory Sprite Sheet_54: 1089370449
+      Neon Sci-Fi Inventory Sprite Sheet_55: -173525430
+      Neon Sci-Fi Inventory Sprite Sheet_56: -1260496157
+      Neon Sci-Fi Inventory Sprite Sheet_57: -452414969
+      Neon Sci-Fi Inventory Sprite Sheet_58: 597499877
+      Neon Sci-Fi Inventory Sprite Sheet_59: 225878947
+      Neon Sci-Fi Inventory Sprite Sheet_6: 1282892788
+      Neon Sci-Fi Inventory Sprite Sheet_60: -358035396
+      Neon Sci-Fi Inventory Sprite Sheet_7: -1495880816
+      Neon Sci-Fi Inventory Sprite Sheet_8: 1763540999
+      Neon Sci-Fi Inventory Sprite Sheet_9: -664835481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

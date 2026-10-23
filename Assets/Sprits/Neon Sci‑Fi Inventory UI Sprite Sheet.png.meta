@@ -1,0 +1,1696 @@
+fileFormatVersion: 2
+guid: 249584f02e28d87499c22fef4f947c96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3365150675082195880
+    second: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_0"
+  - first:
+      213: -3639743628490318211
+    second: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_1"
+  - first:
+      213: 9009762551830756729
+    second: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_2"
+  - first:
+      213: -7530341066756336869
+    second: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_3"
+  - first:
+      213: -8371460033332932994
+    second: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_4"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1014
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d3d7c1e4b190d70800000000000000
+      internalID: 9009762551830756729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1014
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13d37e72bade7790800000000000000
+      internalID: -7530341066756336869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1014
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e8fcd147992db80800000000000000
+      internalID: -8371460033332932994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 732
+        width: 293
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef7730a8f7ccba4f8723a2df18e3d9d
+      internalID: 1971697096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 540
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14da8a94b9087b44982f382b23d18b1
+      internalID: 711905288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 540
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e13dbcc63863de45a458ce37d64ba0b
+      internalID: -926526099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 540
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad1b4e9e587b444ac3ac5a0fd27132
+      internalID: -1233612409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 540
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62094be60d495b14499b48a682372f46
+      internalID: -1213328350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 918
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90084cf712774048a74f62e3ddd54ee
+      internalID: 1416353826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 916
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7082abc13d08c46afa3c34aa471718
+      internalID: 778176026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 916
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461328fb23e810e408a273d8bf975b44
+      internalID: -1163522707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 917
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27603df10cbbc46823298730dc4258
+      internalID: -1327521773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 917
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6665e6928b14faf4ea7165e1da15c509
+      internalID: -1127073315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 915
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f28799d365ff542a27acfce88bf6b7
+      internalID: -1192368991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 917
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789f450d5c8b0ca438264a0842f52b04
+      internalID: -1863443355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 918
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965589be938673544b9b7cac09ea091a
+      internalID: 1665519160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 845
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2a329b106586447896a3c31d82cdbf
+      internalID: -386458194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_17"
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 763
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e2f15fb132024b8716d1a7e8c0ece
+      internalID: -1336883742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_18"
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 687
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2dd04247818a148844ce47886773a4
+      internalID: -1430803702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_19"
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 843
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d667661800595e48abbfb298b90a517
+      internalID: 1934935911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_20"
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 845
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1229544ac8c57084dac6d43e37411884
+      internalID: 1483421299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_21"
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 765
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cae3016450cbe498664a1d592fdba8
+      internalID: 579389845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_22"
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 843
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d2b60077b046b4492164661f903cee
+      internalID: -65891330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_23"
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 843
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66e201a2601f1e4e9b93a18982456bf
+      internalID: 370092603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_24"
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 844
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eee21d12332094dab4922f79cc0191
+      internalID: -571196823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_25"
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 843
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c070fb3268d7d418ca36247888bc2a
+      internalID: 1439312993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_26"
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 843
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3914f7aaba7244dab6261e4f201f82
+      internalID: -275427295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_27"
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 842
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd958ac8f208f1041a6d21e313e80601
+      internalID: 1033193343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_28"
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 683
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cc644c485537c4bacb82071e76e403
+      internalID: 1328508658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_29"
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 683
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a3ea845ce639548a8963c15f05f96e
+      internalID: 1406974687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_30"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 763
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a19f3b888da9b45b0c6ed57cf3166c
+      internalID: -2037749400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_31"
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 766
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30f15cd78a009741b90a18e8e86fffb
+      internalID: -735269725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_32"
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 767
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864e94e3f664a104698a9dfb544edafa
+      internalID: -363132212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_33"
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 768
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e794da881b60049bd660376ee4a516
+      internalID: -766721802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_34"
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 763
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af396e1daa4e16f449e2e5206b490f4e
+      internalID: -108699894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_35"
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 761
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5943552a5f9447e4c8ab490fd37c0e98
+      internalID: 1038152965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_36"
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 685
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b4fc23413a12549b18516eb31ef817
+      internalID: -2059369115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_37"
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 684
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de04bb87173c54740b00842144db070c
+      internalID: 1740486476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_38"
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 683
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb9e1e2353539f4593c97c40a9dcbfd
+      internalID: 512082990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_39"
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 683
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05191020ac409ed47ad555c523c0151b
+      internalID: 459340419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_40"
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 517
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f9321a6fcf00147bb29d449762dd90
+      internalID: 709073328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_41"
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 513
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca7471bfe9b9743b7c3ebb3d193aef
+      internalID: -1824241726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_42"
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 515
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8058a2e07b8a8414abc51471dde0dbd2
+      internalID: -97935864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_43"
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 517
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaf431f37eae85448239d8661f39043
+      internalID: 1981788286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_44"
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 519
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc54a6c997fbc9e42abfe3a2fbd2cf9e
+      internalID: 914165749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_45"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 218
+        width: 25
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55f80e211abd7e4d8d5f4302e68bed4
+      internalID: 1355607177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_46"
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 227
+        width: 158
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2ad9264ba9e6743badec55e42d9461
+      internalID: -1817409309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_47"
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 266
+        width: 151
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cb416cbfae9fb48a49b547a6cbc1c4
+      internalID: 217614346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_48"
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 285
+        width: 135
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e915a6584deccb7489c5505c32f73717
+      internalID: -1941837399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_49"
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 402
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec97ceaf09e9dc2488b718d6470e294d
+      internalID: 483861402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_50"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 404
+        width: 133
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cac02f79a1bfb4b96c62abd9993dde
+      internalID: -736515038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_51"
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 404
+        width: 147
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bf6b0013612e34e85f5a49313b0859
+      internalID: -1950708239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_52"
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 87
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceced2890bfab6b4c9b7383070775a01
+      internalID: 49318983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_53"
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 34
+        width: 161
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567be3bd5a9157c499e7b76833d9f6f8
+      internalID: 1457679226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_54"
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 72
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e680a4ae07f8904e8492f9e35cfbe96
+      internalID: -264994982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_55"
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 21
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3446f7bd07a914d4db2c5add768b5f5c
+      internalID: 1985462777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_56"
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 72
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b795131b485e5458c4f0307c7162f0
+      internalID: -1512381513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_57"
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 362
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a96b9b4b8f4c414d9781d810e1d475e
+      internalID: 1172388330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_58"
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 363
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b16b00e8cd891746977eb6980be92de
+      internalID: -588692524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_59"
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 369
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb33bef2f6543549887b98ed0e95b5f
+      internalID: -1637603434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_60"
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 369
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7eeab22bb1bb446b0d925bc697827c
+      internalID: -1837075413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_61"
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 492
+        width: 169
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55831d13393351247bb7e99457d0bf05
+      internalID: 996199932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_62"
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 554
+        width: 175
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b262f4c95eeca141a2e7e7356ed5e33
+      internalID: -1620370162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_63"
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 434
+        width: 171
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60b49c4b470a2b469a4256337f49d7f
+      internalID: -928295627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_64"
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 554
+        width: 165
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db5a6bff98137749a8273164b312014
+      internalID: -1875189666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_65"
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 497
+        width: 177
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca6f6588bc00ed43b06859ab833520e
+      internalID: -81726993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Neon Sci\u2011Fi Inventory UI Sprite Sheet_66"
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 491
+        width: 170
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3070b6b8bdab504a96557f8db1152d8
+      internalID: 1157595675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bb2cedda08162eb47b07f7222eae41ca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_0": 1971697096
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_1": 711905288
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_10": -1163522707
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_11": -1327521773
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_12": -1127073315
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_13": -1192368991
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_14": -1863443355
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_15": 1665519160
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_16": -386458194
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_17": -1336883742
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_18": -1430803702
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_19": 1934935911
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_20": 1483421299
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_21": 579389845
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_22": -65891330
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_23": 370092603
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_24": -571196823
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_25": 1439312993
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_26": -275427295
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_27": 1033193343
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_28": 1328508658
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_29": 1406974687
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_30": -2037749400
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_31": -735269725
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_32": -363132212
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_33": -766721802
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_34": -108699894
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_35": 1038152965
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_36": -2059369115
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_37": 1740486476
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_38": 512082990
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_39": 459340419
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_40": 709073328
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_41": -1824241726
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_42": -97935864
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_43": 1981788286
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_44": 914165749
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_45": 1355607177
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_46": -1817409309
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_47": 217614346
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_48": -1941837399
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_49": 483861402
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_5": -926526099
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_50": -736515038
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_51": -1950708239
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_52": 49318983
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_53": 1457679226
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_54": -264994982
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_55": 1985462777
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_56": -1512381513
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_57": 1172388330
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_58": -588692524
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_59": -1637603434
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_6": -1233612409
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_60": -1837075413
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_61": 996199932
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_62": -1620370162
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_63": -928295627
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_64": -1875189666
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_65": -81726993
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_66": 1157595675
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_7": -1213328350
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_8": 1416353826
+      "Neon Sci\u2011Fi Inventory UI Sprite Sheet_9": 778176026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -16,6 +16,7 @@ public class MainMenuController : MonoBehaviour
     [SerializeField] private GameObject helpPanel;
     [SerializeField] private GameObject profilePanel;
     [SerializeField] private GameObject leaderBoardPanel;
+    [SerializeField] private GameObject inventoryPanel;
 
     [Header("Settings Controls")]
     [SerializeField] private Slider masterVolumeSlider;
@@ -136,6 +137,19 @@ public class MainMenuController : MonoBehaviour
         if (leaderBoardPanel != null)
             leaderBoardPanel.SetActive(false);
     }
+
+    public void OpenInventory()
+    {
+        if (inventoryPanel != null)
+            inventoryPanel.SetActive(true);
+    }
+
+    public void CloseInventory()
+    {
+        if (inventoryPanel != null)
+            inventoryPanel.SetActive(false);
+    }
+
     public void SetMasterVolume(float volume)
     {
         AudioListener.volume = volume;

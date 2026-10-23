@@ -93,6 +93,8 @@ public class PlayerHealth : MonoBehaviour
 
         currentHealth = Mathf.Max(0, currentHealth - damage);
 
+        GalaxyAudioManager.Instance?.PlayerDamaged();
+
         Debug.Log("Player health: " + currentHealth + "/" + maxHealth);
 
         if (currentHealth <= 0)
@@ -151,6 +153,8 @@ public class PlayerHealth : MonoBehaviour
     {
         IsShieldActive = true;
 
+        GalaxyAudioManager.Instance?.ShieldActivate();
+
         yield return new WaitForSeconds(duration);
 
         IsShieldActive = false;
@@ -173,6 +177,7 @@ public class PlayerHealth : MonoBehaviour
             BlastSpawner.Instance.SpawnBlast(transform.position);
 
         if (GameManager.Instance != null)
+            GalaxyAudioManager.Instance?.GameOver();
             GameManager.Instance.EndGame();
 
         Debug.Log("Player destroyed! Game Over.");

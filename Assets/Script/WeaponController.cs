@@ -51,7 +51,8 @@ public class WeaponController : MonoBehaviour
                 Mathf.Atan2(direction.y, direction.x) *
                 Mathf.Rad2Deg - 90f;
 
-            firePoint.rotation = Quaternion.Euler(0f, 0f, angle);
+            firePoint.rotation =
+                Quaternion.Euler(0f, 0f, angle);
         }
 
         bool wantsToShoot =
@@ -67,25 +68,37 @@ public class WeaponController : MonoBehaviour
 
     private void Shoot()
     {
-        if (multiBulletActive)
-        {
-            ShootMultipleBullets();
-        }
-        else if (bigMissileActive && bigMissilePrefab != null)
+        if (firePoint == null)
+            return;
+
+        // Big missile takes priority over other weapons.
+        if (bigMissileActive && bigMissilePrefab != null)
         {
             Instantiate(
                 bigMissilePrefab,
                 firePoint.position,
                 firePoint.rotation
             );
+
+            GalaxyAudioManager.Instance?.MissileLaunch();
+            return;
         }
-        else if (projectilePrefab != null)
+
+        if (multiBulletActive)
+        {
+            ShootMultipleBullets();
+            return;
+        }
+
+        if (projectilePrefab != null)
         {
             Instantiate(
                 projectilePrefab,
                 firePoint.position,
                 firePoint.rotation
             );
+
+            GalaxyAudioManager.Instance?.PlayerShoot();
         }
     }
 
@@ -117,6 +130,9 @@ public class WeaponController : MonoBehaviour
                 rotation
             );
         }
+
+        // One sound per volley, not one sound per bullet.
+        GalaxyAudioManager.Instance?.PlayerShoot();
     }
 
     public void ActivateMultiBullet()
@@ -131,6 +147,9 @@ public class WeaponController : MonoBehaviour
     private IEnumerator MultiBulletRoutine()
     {
         multiBulletActive = true;
+
+        GalaxyAudioManager.Instance?.MultiBulletActivate();
+
         Debug.Log("Multi-bullet activated!");
 
         yield return new WaitForSeconds(multiBulletDuration);
@@ -161,6 +180,7 @@ public class WeaponController : MonoBehaviour
     private IEnumerator BigMissileRoutine()
     {
         bigMissileActive = true;
+
         Debug.Log("Big missile activated!");
 
         yield return new WaitForSeconds(bigMissileDuration);

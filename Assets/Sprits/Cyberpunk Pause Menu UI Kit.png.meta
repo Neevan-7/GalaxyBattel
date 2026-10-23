@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 8667dacc46f35514faf45e833e5ed5f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -516560662185057601
+    second: Cyberpunk Pause Menu UI Kit_0
+  - first:
+      213: 2576905185619641142
+    second: Cyberpunk Pause Menu UI Kit_1
+  - first:
+      213: 5872542885113867778
+    second: Cyberpunk Pause Menu UI Kit_2
+  - first:
+      213: -3440171319778462948
+    second: Cyberpunk Pause Menu UI Kit_3
+  - first:
+      213: -608121174742223088
+    second: Cyberpunk Pause Menu UI Kit_4
+  - first:
+      213: -2530550909870708159
+    second: Cyberpunk Pause Menu UI Kit_5
+  - first:
+      213: -191463444578656251
+    second: Cyberpunk Pause Menu UI Kit_6
+  - first:
+      213: -6054717416985291382
+    second: Cyberpunk Pause Menu UI Kit_7
+  - first:
+      213: -8460204929498048259
+    second: Cyberpunk Pause Menu UI Kit_8
+  - first:
+      213: 142671000115030942
+    second: Cyberpunk Pause Menu UI Kit_9
+  - first:
+      213: 3563380343458041256
+    second: Cyberpunk Pause Menu UI Kit_10
+  - first:
+      213: 896794665751922892
+    second: Cyberpunk Pause Menu UI Kit_11
+  - first:
+      213: -6776605278972774198
+    second: Cyberpunk Pause Menu UI Kit_12
+  - first:
+      213: -4002721856423109986
+    second: Cyberpunk Pause Menu UI Kit_13
+  - first:
+      213: 1902105982710723581
+    second: Cyberpunk Pause Menu UI Kit_14
+  - first:
+      213: 7059030537505080694
+    second: Cyberpunk Pause Menu UI Kit_15
+  - first:
+      213: -6095836141393745141
+    second: Cyberpunk Pause Menu UI Kit_16
+  - first:
+      213: -1883053874502311909
+    second: Cyberpunk Pause Menu UI Kit_17
+  - first:
+      213: -79141537584048318
+    second: Cyberpunk Pause Menu UI Kit_18
+  - first:
+      213: 783010247922732636
+    second: Cyberpunk Pause Menu UI Kit_19
+  - first:
+      213: 5256491839719718335
+    second: Cyberpunk Pause Menu UI Kit_20
+  - first:
+      213: -2274032096973309528
+    second: Cyberpunk Pause Menu UI Kit_21
+  - first:
+      213: 171436860885546542
+    second: Cyberpunk Pause Menu UI Kit_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_3
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1140
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c133e16596e0240d0800000000000000
+      internalID: -3440171319778462948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_22
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26bd7aaae0116200800000000000000
+      internalID: 171436860885546542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 768
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454ffafca423eae4fa9ad159c5d7f24e
+      internalID: -1956074599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_1
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 852
+        width: 489
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8935909e08c1ab24aaad1d4b8bba0b8a
+      internalID: 1849832818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_2
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 661
+        width: 248
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ed2d3cae70bda4d8e0a4fd5d766587
+      internalID: -1426773889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 447
+        width: 199
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc41ea8f9c21f943ae0d33148909d3d
+      internalID: 1310174207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_5
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 457
+        width: 203
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ad32efc1f9d7b4caa0b2beabf70d26
+      internalID: 2144786537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 238
+        width: 592
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704211215a22a8e44b97529425e28a30
+      internalID: 1026485752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 37
+        width: 597
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32a09cb52f38c4479b82bc769acd278
+      internalID: -374205853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 230
+        width: 602
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537d9b48dc2ca434c999ee9239115fce
+      internalID: 1262407043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyberpunk Pause Menu UI Kit_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 35
+        width: 616
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79013512719470c419650fdf7fa9a1f8
+      internalID: -1568245874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 71c1d4a37a155794a970ed5872fee14d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cyberpunk Pause Menu UI Kit_0: -1956074599
+      Cyberpunk Pause Menu UI Kit_1: 1849832818
+      Cyberpunk Pause Menu UI Kit_2: -1426773889
+      Cyberpunk Pause Menu UI Kit_4: 1310174207
+      Cyberpunk Pause Menu UI Kit_5: 2144786537
+      Cyberpunk Pause Menu UI Kit_6: 1026485752
+      Cyberpunk Pause Menu UI Kit_7: -374205853
+      Cyberpunk Pause Menu UI Kit_8: 1262407043
+      Cyberpunk Pause Menu UI Kit_9: -1568245874
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: d9aee39f32e1f65409bf55159ecccb64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5809405557520341330
+    second: Neon Sci-Fi Audio Settings UI Kit_0
+  - first:
+      213: 2458380246883452698
+    second: Neon Sci-Fi Audio Settings UI Kit_1
+  - first:
+      213: 1694686287433396123
+    second: Neon Sci-Fi Audio Settings UI Kit_2
+  - first:
+      213: -1676013193644219749
+    second: Neon Sci-Fi Audio Settings UI Kit_3
+  - first:
+      213: 3246704578667142338
+    second: Neon Sci-Fi Audio Settings UI Kit_4
+  - first:
+      213: 5228365772615195750
+    second: Neon Sci-Fi Audio Settings UI Kit_5
+  - first:
+      213: 5492519559309720771
+    second: Neon Sci-Fi Audio Settings UI Kit_6
+  - first:
+      213: 3156698699979222668
+    second: Neon Sci-Fi Audio Settings UI Kit_7
+  - first:
+      213: -8571183785077847189
+    second: Neon Sci-Fi Audio Settings UI Kit_8
+  - first:
+      213: 2605084715569343829
+    second: Neon Sci-Fi Audio Settings UI Kit_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 678
+        width: 1005
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6e1dbcc68d06fa0800000000000000
+      internalID: -5809405557520341330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 478
+        width: 412
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17435a3fcbed1220800000000000000
+      internalID: 2458380246883452698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 506
+        width: 389
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f6138133cb48710800000000000000
+      internalID: 1694686287433396123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_3
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 506
+        width: 427
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92e7f951ea9db8e0800000000000000
+      internalID: -1676013193644219749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 290
+        width: 415
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccd61ecc9c9e0d20800000000000000
+      internalID: 3246704578667142338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 387
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1a8818f2ee8840800000000000000
+      internalID: 5228365772615195750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_6
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 320
+        width: 434
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc7a864079593c40800000000000000
+      internalID: 5492519559309720771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 102
+        width: 409
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ee2332eb8decb20800000000000000
+      internalID: 3156698699979222668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_8
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 132
+        width: 391
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bc8d172c90d0980800000000000000
+      internalID: -8571183785077847189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_9
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 132
+        width: 429
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d6f491fbe172420800000000000000
+      internalID: 2605084715569343829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 504
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd39f323aacf99f44b402d9f90b5ecf0
+      internalID: 697895240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 320
+        width: 95
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62334266ebb9ec4ca95445734f72987
+      internalID: -1763000064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Audio Settings UI Kit_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 128
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e00935fd4e826418b355cd7c235791
+      internalID: -1265770878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2c65ecd8ccd0ebe4281c1e8677813774
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neon Sci-Fi Audio Settings UI Kit_0: -5809405557520341330
+      Neon Sci-Fi Audio Settings UI Kit_1: 2458380246883452698
+      Neon Sci-Fi Audio Settings UI Kit_10: 697895240
+      Neon Sci-Fi Audio Settings UI Kit_11: -1763000064
+      Neon Sci-Fi Audio Settings UI Kit_12: -1265770878
+      Neon Sci-Fi Audio Settings UI Kit_2: 1694686287433396123
+      Neon Sci-Fi Audio Settings UI Kit_3: -1676013193644219749
+      Neon Sci-Fi Audio Settings UI Kit_4: 3246704578667142338
+      Neon Sci-Fi Audio Settings UI Kit_5: 5228365772615195750
+      Neon Sci-Fi Audio Settings UI Kit_6: 5492519559309720771
+      Neon Sci-Fi Audio Settings UI Kit_7: 3156698699979222668
+      Neon Sci-Fi Audio Settings UI Kit_8: -8571183785077847189
+      Neon Sci-Fi Audio Settings UI Kit_9: 2605084715569343829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
