@@ -1,0 +1,27 @@
+
+name: Request Unity Personal Activation
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  activation:
+    name: Generate Unity activation file
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Request manual activation file
+        id: activation
+        uses: game-ci/unity-request-activation-file@v2
+        with:
+          unityVersion: "m_EditorVersion: 6000.0.47f1"
+
+      - name: Save activation file as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Unity-Activation-File
+          path: ${{ steps.activation.outputs.filePath }}
+          if-no-files-found: error
