@@ -121,7 +121,7 @@ If a WebGL build is available, players can play directly in a compatible web bro
 **Naveen**  
 Game Developer | Unity | C#
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
+- GitHub: [Your GitHub Profile](https://github.com/Neevan-7)
 - Portfolio: [View My Portfolio](https://naveenatfly.github.io/Portfolio1/)
 
 ## 📄 License
