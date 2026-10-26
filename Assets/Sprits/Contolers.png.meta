@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: b72bb5ed7f2c6284187800c362403bc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5910465922255309322
+    second: Contolers_0
+  - first:
+      213: 8978751617789725719
+    second: Contolers_1
+  - first:
+      213: -4162118449574575053
+    second: Contolers_2
+  - first:
+      213: 18391629232071066
+    second: Contolers_3
+  - first:
+      213: -219644300926128066
+    second: Contolers_4
+  - first:
+      213: 6450891305973572714
+    second: Contolers_5
+  - first:
+      213: -8390823772895408565
+    second: Contolers_6
+  - first:
+      213: -196725718313449567
+    second: Contolers_7
+  - first:
+      213: 318568252840698789
+    second: Contolers_8
+  - first:
+      213: 1067967917510075966
+    second: Contolers_9
+  - first:
+      213: -5040588311674622458
+    second: Contolers_10
+  - first:
+      213: -1192565081583161250
+    second: Contolers_11
+  - first:
+      213: 8761199886969511659
+    second: Contolers_12
+  - first:
+      213: -1432249376193206464
+    second: Contolers_13
+  - first:
+      213: 139232239792284704
+    second: Contolers_14
+  - first:
+      213: -3197567260107521375
+    second: Contolers_15
+  - first:
+      213: -3425233078242442503
+    second: Contolers_16
+  - first:
+      213: -4113052532278718906
+    second: Contolers_17
+  - first:
+      213: -7141369986597927174
+    second: Contolers_18
+  - first:
+      213: 1453435628956454973
+    second: Contolers_19
+  - first:
+      213: -8943753134500507753
+    second: Contolers_20
+  - first:
+      213: -8891967144245606680
+    second: Contolers_21
+  - first:
+      213: -8468436450718877243
+    second: Contolers_22
+  - first:
+      213: -6785190514386149904
+    second: Contolers_23
+  - first:
+      213: 2578843393205815254
+    second: Contolers_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Contolers_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 322
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64e539e67b268950800000000000000
+      internalID: 6450891305973572714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 351
+        width: 307
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e8aab2c3ecd8b80800000000000000
+      internalID: -8390823772895408565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_8
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 365
+        width: 248
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3694b5328cb6400800000000000000
+      internalID: 318568252840698789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_9
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 358
+        width: 251
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36a3b2a92f22de00800000000000000
+      internalID: 1067967917510075966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 147
+        width: 313
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5073b47068237fe0800000000000000
+      internalID: -1192565081583161250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 147
+        width: 315
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee920dd0e8069970800000000000000
+      internalID: 8761199886969511659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_21
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 213
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6cbc47ef2699480800000000000000
+      internalID: -8891967144245606680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 21
+        width: 829
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c97eef6ae11a7a80800000000000000
+      internalID: -8468436450718877243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_0
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 147
+        width: 285
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45707b64b658eca40aac09d92a50685f
+      internalID: -519607227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_1
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 354
+        width: 284
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15546eea217532d4982fdea32d730a95
+      internalID: 221889808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 635
+        width: 372
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e0c4e96d597d40adcc297f0e0f91c
+      internalID: 1506187639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 723
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75670311e556bae46980d1815f0f266f
+      internalID: 430806414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 618
+        width: 399
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c55f20ad89d5a40a0f5f829abfec83
+      internalID: -1608469687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_13
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 701
+        width: 213
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca4ae7c1d27c2740a6af3cceb14c2cc
+      internalID: -1325359432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contolers_2
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 630
+        width: 392
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ad200fd0bedf2439a657cec0aa4e9e
+      internalID: -1997672641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 86419422888173a40b9a38db3fe84e53
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Contolers_0: -519607227
+      Contolers_1: 221889808
+      Contolers_10: -1608469687
+      Contolers_13: -1325359432
+      Contolers_2: -1997672641
+      Contolers_25: -1818142693
+      Contolers_3: 1506187639
+      Contolers_7: 430806414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

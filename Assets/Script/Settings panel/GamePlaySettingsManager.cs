@@ -20,6 +20,7 @@ public class GamePlaySettingsManager : MonoBehaviour
 
     [Header("Panels")]
     [SerializeField] private GameObject settingsPanel;
+    [SerializeField] private GameObject pausePanel;
     [SerializeField] private GameObject audioPanel;
     [SerializeField] private GameObject accountPanel;
     [SerializeField] private GameObject graphicsPanel;
@@ -184,6 +185,18 @@ public class GamePlaySettingsManager : MonoBehaviour
             settingsPanel.SetActive(true);
     }
 
+    public void OpenSettings1()
+    {
+        if (pausePanel != null)
+            pausePanel.SetActive(true);
+    }
+
+    public void CloseSettings1()
+    {
+        if (pausePanel != null)
+            pausePanel.SetActive(false);
+    }
+
     public void OpenSettings()
     {
         // Make sure the pause menu remains active.
@@ -197,6 +210,29 @@ public class GamePlaySettingsManager : MonoBehaviour
         ShowAudioPanel();
     }
 
+    //public void ClosePause()
+    //{
+    //    // Close only the audio settings panel.
+    //    if (pausePanel != null)
+    //        pausePanel.SetActive(false);
+
+    //    // Return to the pause menu.
+    //    if (pausePanel != null)
+    //        pausePanel.SetActive(true);
+    //}
+
+    //public void OpenPause()
+    //{
+    //    // Make sure the pause menu remains active.
+    //    if (pausePanel != null)
+    //        pausePanel.SetActive(true);
+
+    //    // Open the audio settings panel.
+    //    if (pausePanel != null)
+    //        pausePanel.SetActive(true);
+
+    //    ShowAudioPanel();
+    //}
 
     // Save button, if you want to save without closing.
     public void SaveSettings()
@@ -228,6 +264,13 @@ public class GamePlaySettingsManager : MonoBehaviour
     public void ShowAudioPanel()
     {
         if (audioPanel != null) audioPanel.SetActive(true);
+        if (accountPanel != null) accountPanel.SetActive(false);
+        if (graphicsPanel != null) graphicsPanel.SetActive(false);
+    }
+
+    public void ShowPausePanel()
+    {
+        if (pausePanel != null) pausePanel.SetActive(true);
         if (accountPanel != null) accountPanel.SetActive(false);
         if (graphicsPanel != null) graphicsPanel.SetActive(false);
     }

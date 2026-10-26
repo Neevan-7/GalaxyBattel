@@ -9,6 +9,10 @@ public class WeaponController : MonoBehaviour
     [SerializeField] private Transform firePoint;
     [SerializeField] private float fireRate = 0.25f;
 
+    [Header("Mobile Controls")]
+    [SerializeField] private MobileFireButton mobileFireButton;
+    [SerializeField] private VirtualJoystick aimJoystick;
+
     [Header("Multi-Bullet Upgrade")]
     [SerializeField] private GameObject multiBulletPrefab;
     [SerializeField] private int bulletCount = 3;
@@ -34,7 +38,42 @@ public class WeaponController : MonoBehaviour
 
     private void Update()
     {
-        if (mainCamera == null || firePoint == null)
+        if (GameManager.Instance != null &&
+            GameManager.Instance.IsGameOver)
+        {
+            return;
+        }
+
+        if (firePoint == null)
+            return;
+
+        HandleAiming();
+        HandleShooting();
+    }
+
+    private void HandleAiming()
+    {
+        if (Application.isMobilePlatform)
+        {
+            if (aimJoystick == null)
+                return;
+
+            Vector2 aimDirection = aimJoystick.Direction;
+
+            if (aimDirection.sqrMagnitude > 0.01f)
+            {
+                float angle =
+                    Mathf.Atan2(aimDirection.y, aimDirection.x)
+                    * Mathf.Rad2Deg - 90f;
+
+                firePoint.rotation =
+                    Quaternion.Euler(0f, 0f, angle);
+            }
+
+            return;
+        }
+
+        if (mainCamera == null)
             return;
 
         Vector3 mousePosition =
@@ -43,21 +82,35 @@ public class WeaponController : MonoBehaviour
         mousePosition.z = 0f;
 
         Vector2 direction =
-            (Vector2)(mousePosition - transform.position);
+            (Vector2)(mousePosition - firePoint.position);
 
         if (direction.sqrMagnitude > 0.001f)
         {
             float angle =
-                Mathf.Atan2(direction.y, direction.x) *
-                Mathf.Rad2Deg - 90f;
+                Mathf.Atan2(direction.y, direction.x)
+                * Mathf.Rad2Deg - 90f;
 
             firePoint.rotation =
                 Quaternion.Euler(0f, 0f, angle);
         }
+    }
 
-        bool wantsToShoot =
-            Input.GetMouseButton(0) ||
-            Input.GetKey(KeyCode.Space);
+    private void HandleShooting()
+    {
+        bool wantsToShoot;
+
+        if (Application.isMobilePlatform)
+        {
+            wantsToShoot =
+                mobileFireButton != null &&
+                mobileFireButton.IsHeld;
+        }
+        else
+        {
+            wantsToShoot =
+                Input.GetMouseButton(0) ||
+                Input.GetKey(KeyCode.Space);
+        }
 
         if (wantsToShoot && Time.time >= nextFireTime)
         {
@@ -71,7 +124,7 @@ public class WeaponController : MonoBehaviour
         if (firePoint == null)
             return;
 
-        // Big missile takes priority over other weapons.
+        // Big missile takes priority.
         if (bigMissileActive && bigMissilePrefab != null)
         {
             Instantiate(
@@ -131,7 +184,6 @@ public class WeaponController : MonoBehaviour
             );
         }
 
-        // One sound per volley, not one sound per bullet.
         GalaxyAudioManager.Instance?.PlayerShoot();
     }
 

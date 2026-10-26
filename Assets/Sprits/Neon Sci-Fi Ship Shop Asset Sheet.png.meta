@@ -417,6 +417,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Ship Shop Asset Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 238
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd308af78026c3748ae06c81c65e1bf5
+      internalID: -1415209923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -435,6 +457,7 @@ TextureImporter:
       Neon Sci-Fi Ship Shop Asset Sheet_10: 1891853494
       Neon Sci-Fi Ship Shop Asset Sheet_11: -616526335
       Neon Sci-Fi Ship Shop Asset Sheet_12: -1026886577
+      Neon Sci-Fi Ship Shop Asset Sheet_13: -1415209923
       Neon Sci-Fi Ship Shop Asset Sheet_3: 1794449585
       Neon Sci-Fi Ship Shop Asset Sheet_4: 1144439692
       Neon Sci-Fi Ship Shop Asset Sheet_5: -1145480008

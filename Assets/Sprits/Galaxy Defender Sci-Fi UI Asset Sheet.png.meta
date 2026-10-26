@@ -129,10 +129,10 @@ TextureImporter:
       name: Galaxy Defender Sci-Fi UI Asset Sheet_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 519
-        width: 1019
-        height: 505
+        x: 21
+        y: 513
+        width: 1012
+        height: 494
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 3, z: 3, w: 0}
@@ -288,7 +288,7 @@ TextureImporter:
         width: 309
         height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
