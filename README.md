@@ -75,7 +75,7 @@ Once you upload the screenshots to your repository, display them using Markdown:
 
 ## ▶️ Play the Game
 
-**Play Online:** [Add your game link here]
+**Play Online:** https://naveen-7.itch.io/galaxy-battele
 
 **Download:** [Visit the GitHub Releases page](../../releases)
 
@@ -104,7 +104,7 @@ If a WebGL build is available, players can play directly in a compatible web bro
 6. Open the main game scene.
 7. Press **Play** to start the game.
 
-**Note:** Replace `YOUR-USERNAME` with your GitHub username. Ensure the required assets and scenes are included in the repository.
+**Note:** Replace `Neevan-7` with your GitHub username. Ensure the required assets and scenes are included in the repository.
 
 ## 🗺️ Future Improvements
 
@@ -121,7 +121,7 @@ If a WebGL build is available, players can play directly in a compatible web bro
 **Naveen**  
 Game Developer | Unity | C#
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
+- GitHub: [View My GitHub Profile](https://github.com/Neevan-7)
 - Portfolio: [View My Portfolio](https://naveenatfly.github.io/Portfolio1/)
 
 ## 📄 License
