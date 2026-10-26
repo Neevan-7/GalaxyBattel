@@ -95,21 +95,46 @@ public class WeaponController : MonoBehaviour
         }
     }
 
+    //private void HandleShooting()
+    //{
+    //    bool wantsToShoot;
+
+    //    if (Application.isMobilePlatform)
+    //    {
+    //        wantsToShoot =
+    //            mobileFireButton != null &&
+    //            mobileFireButton.IsHeld;
+    //    }
+    //    else
+    //    {
+    //        wantsToShoot =
+    //            Input.GetMouseButton(0) ||
+    //            Input.GetKey(KeyCode.Space);
+    //    }
+
+    //    if (wantsToShoot && Time.time >= nextFireTime)
+    //    {
+    //        Shoot();
+    //        nextFireTime = Time.time + fireRate;
+    //    }
+    //}
+
+
     private void HandleShooting()
     {
         bool wantsToShoot;
 
         if (Application.isMobilePlatform)
         {
-            wantsToShoot =
-                mobileFireButton != null &&
-                mobileFireButton.IsHeld;
+            // Fire when the aim joystick is pulled near its boundary.
+            wantsToShoot = aimJoystick != null &&
+                           aimJoystick.Direction.magnitude >= 0.85f;
         }
         else
         {
-            wantsToShoot =
-                Input.GetMouseButton(0) ||
-                Input.GetKey(KeyCode.Space);
+            // Preserve PC controls.
+            wantsToShoot = Input.GetMouseButton(0) ||
+                           Input.GetKey(KeyCode.Space);
         }
 
         if (wantsToShoot && Time.time >= nextFireTime)
@@ -118,6 +143,7 @@ public class WeaponController : MonoBehaviour
             nextFireTime = Time.time + fireRate;
         }
     }
+
 
     private void Shoot()
     {
