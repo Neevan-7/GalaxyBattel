@@ -55,6 +55,7 @@ public class ControlLayoutCustomizer : MonoBehaviour
         }
 
         IsEditing = true;
+        SetJoystickInput(false);
 
         if (customizationPanel != null)
             customizationPanel.SetActive(true);
@@ -62,39 +63,88 @@ public class ControlLayoutCustomizer : MonoBehaviour
         SelectControl(controls.Length > 0 ? controls[0] : null);
     }
 
+    //public void SelectControl(RectTransform control)
+    //{
+    //    if (!IsEditing || control == null) return;
+
+    //    selectedControl = control;
+
+    //    if (sizeSlider != null)
+    //    {
+    //        sizeSlider.SetValueWithoutNotify(
+    //            (control.sizeDelta.x + control.sizeDelta.y) / 2f);
+    //    }
+
+    //    CanvasGroup group = control.GetComponent<CanvasGroup>();
+
+    //    if (opacitySlider != null)
+    //    {
+    //        opacitySlider.SetValueWithoutNotify(
+    //            group != null ? group.alpha : 1f);
+    //    }
+    //}
+
+
+    private Vector2 selectedOriginalSize;
+    private Vector3 selectedOriginalScale;
+
     public void SelectControl(RectTransform control)
     {
         if (!IsEditing || control == null) return;
 
         selectedControl = control;
 
+        selectedOriginalSize = control.sizeDelta;
+        selectedOriginalScale = control.localScale;
+
         if (sizeSlider != null)
-        {
-            sizeSlider.SetValueWithoutNotify(
-                (control.sizeDelta.x + control.sizeDelta.y) / 2f);
-        }
+            sizeSlider.SetValueWithoutNotify(100f);
 
         CanvasGroup group = control.GetComponent<CanvasGroup>();
 
         if (opacitySlider != null)
-        {
             opacitySlider.SetValueWithoutNotify(
                 group != null ? group.alpha : 1f);
-        }
     }
 
-    public void OnSizeChanged(float size)
+    public void OnSizeChanged(float percentage)
     {
         if (!IsEditing || selectedControl == null) return;
 
-        float ratio = selectedControl.sizeDelta.x > 0
-            ? selectedControl.sizeDelta.y /
-              selectedControl.sizeDelta.x
-            : 1f;
+        float multiplier = percentage / 100f;
 
-        selectedControl.sizeDelta = new Vector2(
-            size, size * ratio);
+        selectedControl.localScale =
+            selectedOriginalScale * multiplier;
     }
+
+
+    private void SetJoystickInput(bool enabled)
+    {
+        foreach (RectTransform control in controls)
+        {
+            if (control == null) continue;
+
+            VirtualJoystick joystick =
+                control.GetComponent<VirtualJoystick>();
+
+            if (joystick != null)
+                joystick.enabled = enabled;
+        }
+    }
+
+
+    //public void OnSizeChanged(float size)
+    //{
+    //    if (!IsEditing || selectedControl == null) return;
+
+    //    float ratio = selectedControl.sizeDelta.x > 0
+    //        ? selectedControl.sizeDelta.y /
+    //          selectedControl.sizeDelta.x
+    //        : 1f;
+
+    //    selectedControl.sizeDelta = new Vector2(
+    //        size, size * ratio);
+    //}
 
     public void OnOpacityChanged(float alpha)
     {
@@ -163,6 +213,7 @@ public class ControlLayoutCustomizer : MonoBehaviour
     private void FinishEditing()
     {
         IsEditing = false;
+        SetJoystickInput(true);
         selectedControl = null;
 
         if (customizationPanel != null)
