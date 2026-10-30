@@ -34,10 +34,37 @@ public class MissionResultsUI : MonoBehaviour
 
     private LevelDefinition completedLevel;
 
+    //private void Start()
+    //{
+    //    if (victoryPanel != null)
+    //        victoryPanel.SetActive(false);
+    //}
+
     private void Start()
     {
         if (victoryPanel != null)
             victoryPanel.SetActive(false);
+
+        // Register all navigation buttons.
+        if (nextLevelButton != null)
+        {
+            nextLevelButton.onClick.RemoveListener(PlayNextLevel);
+            nextLevelButton.onClick.AddListener(PlayNextLevel);
+        }
+
+        if (replayButton != null)
+        {
+            replayButton.onClick.RemoveListener(ReplayLevel);
+            replayButton.onClick.AddListener(ReplayLevel);
+        }
+
+        if (levelSelectButton != null)
+        {
+            levelSelectButton.onClick.RemoveListener(OpenLevelSelect);
+            levelSelectButton.onClick.AddListener(OpenLevelSelect);
+        }
+
+        Time.timeScale = 1f;
     }
 
     public void ShowVictory(
@@ -56,11 +83,11 @@ public class MissionResultsUI : MonoBehaviour
                 level.levelName + " COMPLETE!";
 
         if (finalScoreText != null)
-            finalScoreText.text = "SCORE: " + score;
+            finalScoreText.text = ""+score;
 
         if (totalStarsText != null)
             totalStarsText.text =
-                "TOTAL STARS: " + LevelProgress.TotalStars;
+                " " + LevelProgress.TotalStars;
 
         for (int i = 0; i < starImages.Length; i++)
         {

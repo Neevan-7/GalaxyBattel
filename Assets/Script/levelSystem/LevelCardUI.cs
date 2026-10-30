@@ -53,15 +53,46 @@ public class LevelCardUI : MonoBehaviour
         if (lockOverlay != null)
             lockOverlay.SetActive(!unlocked);
 
+
+        //if (cardButton != null)
+        //{
+        //    cardButton.interactable = unlocked;
+        //    cardButton.onClick.RemoveAllListeners();
+        //    cardButton.onClick.AddListener(() =>
+        //    {
+        //        if (unlocked)
+        //            onSelected?.Invoke(level);
+        //    });
+        //}
+
+        if (cardButton == null)
+            cardButton = GetComponent<Button>();
+
+        if (cardButton == null)
+            cardButton = GetComponentInChildren<Button>();
+
         if (cardButton != null)
         {
+            LevelDefinition selectedDefinition = level;
+
+            cardButton.gameObject.SetActive(true);
             cardButton.interactable = unlocked;
             cardButton.onClick.RemoveAllListeners();
+
             cardButton.onClick.AddListener(() =>
             {
-                if (unlocked)
-                    onSelected?.Invoke(level);
+                if (selectedDefinition != null &&
+                    LevelProgress.IsUnlocked(selectedDefinition))
+                {
+                    onSelected?.Invoke(selectedDefinition);
+                }
             });
+        }
+        else
+        {
+            Debug.LogError(
+                "LevelCardUI: Button reference missing on " + gameObject.name
+            );
         }
 
         RefreshStars();

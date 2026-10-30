@@ -162,6 +162,11 @@ using UnityEngine.UI;
 
 public class LevelSelectUI : MonoBehaviour
 {
+    [SerializeField] private string gameplaySceneName = "GamePlay";
+    [SerializeField] private string mainMenuSceneName = "MainMenu";
+
+    private const string SelectedLevelKey = "GD_SelectedLevelId";
+
     [Header("Level List")]
     [SerializeField] private LevelDefinition[] levels;
     [SerializeField] private Transform content;
@@ -187,27 +192,66 @@ public class LevelSelectUI : MonoBehaviour
     private readonly List<LevelCardUI> cards = new();
     private LevelDefinition selectedLevel;
 
+    //private void Start()
+    //{
+    //    BuildLevelCards();
+
+    //    if (levels != null)
+    //    {
+    //        foreach (LevelDefinition level in levels)
+    //        {
+    //            if (level != null && LevelProgress.IsUnlocked(level))
+    //            {
+    //                SelectLevel(level);
+    //                break;
+    //            }
+    //        }
+    //    }
+
+    //    if (launchButton != null)
+    //    {
+    //        launchButton.onClick.RemoveAllListeners();
+    //        launchButton.onClick.AddListener(LaunchSelectedLevel);
+    //    }
+    //}
+
     private void Start()
     {
         BuildLevelCards();
 
-        if (levels != null)
+        int savedLevelId =
+            PlayerPrefs.GetInt(SelectedLevelKey, 1);
+
+        LevelDefinition initialLevel = null;
+
+        // Restore previously selected level.
+        foreach (LevelDefinition level in levels)
+        {
+            if (level != null &&
+                level.levelId == savedLevelId &&
+                LevelProgress.IsUnlocked(level))
+            {
+                initialLevel = level;
+                break;
+            }
+        }
+
+        // Fallback to first unlocked level.
+        if (initialLevel == null)
         {
             foreach (LevelDefinition level in levels)
             {
-                if (level != null && LevelProgress.IsUnlocked(level))
+                if (level != null &&
+                    LevelProgress.IsUnlocked(level))
                 {
-                    SelectLevel(level);
+                    initialLevel = level;
                     break;
                 }
             }
         }
 
-        if (launchButton != null)
-        {
-            launchButton.onClick.RemoveAllListeners();
-            launchButton.onClick.AddListener(LaunchSelectedLevel);
-        }
+        if (initialLevel != null)
+            SelectLevel(initialLevel);
     }
 
     //private void BuildLevelCards()
@@ -282,6 +326,9 @@ public class LevelSelectUI : MonoBehaviour
 
         selectedLevel = level;
 
+        PlayerPrefs.SetInt(SelectedLevelKey, level.levelId);
+        PlayerPrefs.Save();
+
         //foreach (LevelCardUI card in cards)
         //{
         //    // Card selection state is updated below by checking its
@@ -336,15 +383,41 @@ public class LevelSelectUI : MonoBehaviour
         }
     }
 
+    //private void LaunchSelectedLevel()
+    //{
+    //    if (selectedLevel == null ||
+    //        !LevelProgress.IsUnlocked(selectedLevel))
+    //        return;
+
+    //    PlayerPrefs.SetInt("GD_SelectedLevelId", selectedLevel.levelId);
+    //    PlayerPrefs.Save();
+
+    //    UnityEngine.SceneManagement.SceneManager.LoadScene("Gameplay");
+    //}
+
     private void LaunchSelectedLevel()
     {
         if (selectedLevel == null ||
             !LevelProgress.IsUnlocked(selectedLevel))
             return;
 
-        PlayerPrefs.SetInt("GD_SelectedLevelId", selectedLevel.levelId);
+        Time.timeScale = 1f;
+
+        PlayerPrefs.SetInt(
+            SelectedLevelKey, selectedLevel.levelId);
+
         PlayerPrefs.Save();
 
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Gameplay");
+        UnityEngine.SceneManagement.SceneManager.LoadScene(
+            gameplaySceneName);
     }
+
+    public void BackToMainMenu()
+    {
+        Time.timeScale = 1f;
+
+        UnityEngine.SceneManagement.SceneManager.LoadScene(
+            mainMenuSceneName);
+    }
+
 }

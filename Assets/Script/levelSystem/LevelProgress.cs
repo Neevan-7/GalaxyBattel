@@ -21,16 +21,31 @@ public static class LevelProgress
             Prefix + levelId + "_BestScore", 0);
     }
 
+    //public static bool IsUnlocked(LevelDefinition level)
+    //{
+    //    if (level == null)
+    //        return false;
+
+    //    // The first level should always be available.
+    //    if (level.levelId == 1)
+    //        return true;
+
+    //    return TotalStars >= level.requiredTotalStars;
+    //}
+
     public static bool IsUnlocked(LevelDefinition level)
     {
         if (level == null)
             return false;
 
-        // The first level should always be available.
+        // First level is always unlocked.
         if (level.levelId == 1)
             return true;
 
-        return TotalStars >= level.requiredTotalStars;
+        // Unlock only after completing the previous level.
+        int previousLevelStars = GetStars(level.levelId - 1);
+
+        return previousLevelStars > 0;
     }
 
     public static void SaveResult(
