@@ -19,11 +19,35 @@ MonoBehaviour:
   backgroundImage: {fileID: -5488803891070740162, guid: ada975c5851b87c4fa0cf82e9228565e, type: 3}
   requiredTotalStars: 3
   waves:
-  - enemyPrefab: {fileID: 0}
-    enemyCount: 0
-    spawnInterval: 0
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 353803a3ca6406544819d301cb70ebfe, type: 3}
+    enemyCount: 6
+    spawnInterval: 1.2
+    spawnRadius: 9
+  - enemyPrefab: {fileID: 8535042937010447350, guid: fa4537ecc5814624baa5a6612871e29f, type: 3}
+    enemyCount: 8
+    spawnInterval: 1.3
+    spawnRadius: 8
+  - enemyPrefab: {fileID: 8535042937010447350, guid: e75fd5e99ab6fcd46874d830909d95fc, type: 3}
+    enemyCount: 10
+    spawnInterval: 0.8
+    spawnRadius: 8
+  - enemyPrefab: {fileID: 8535042937010447350, guid: fee9bf9d84755bb4c8eec3b98965ab57, type: 3}
+    enemyCount: 12
+    spawnInterval: 0.7
+    spawnRadius: 10
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 5189df995376cd34d94d8641ece821d2, type: 3}
+    enemyCount: 14
+    spawnInterval: 2
     spawnRadius: 0
-  bossPrefab: {fileID: 0}
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 60c8530ceeda4714b9d527a7c3922f50, type: 3}
+    enemyCount: 16
+    spawnInterval: 3
+    spawnRadius: 10
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 60c8530ceeda4714b9d527a7c3922f50, type: 3}
+    enemyCount: 5
+    spawnInterval: 2
+    spawnRadius: 10
+  bossPrefab: {fileID: 8535042937010447350, guid: f05cf7df1e64f1649852845014065a0a, type: 3}
   bossSpawnDelay: 2
   scoreForThreeStars: 1000
   healthPercentForTwoStars: 0.5
