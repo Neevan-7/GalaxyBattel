@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b236a3d5789a2b34cb8d89be023023be, type: 3}
+  m_Name: Level_06
+  m_EditorClassIdentifier: 
+  levelId: 6
+  levelName: Nova Frontier
+  description: Defend Earth from incoming enemies.
+  planetImage: {fileID: 1586948092, guid: 4fc8876125b99e544b2a2e064c34b3df, type: 3}
+  backgroundImage: {fileID: 461143932199159663, guid: 771ab31a15c0f124abc2a8c0e5f7e556, type: 3}
+  requiredTotalStars: 3
+  waves:
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 9b59f70bd4ff24845a68e84cb2b6ab50, type: 3}
+    enemyCount: 18
+    spawnInterval: 1.2
+    spawnRadius: 8
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 343e7c26a3461a549ad8871d054b92d9, type: 3}
+    enemyCount: 20
+    spawnInterval: 1
+    spawnRadius: 8
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 91945ecd734ec85468dab6653d3580d8, type: 3}
+    enemyCount: 24
+    spawnInterval: 0.8
+    spawnRadius: 7
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 343e7c26a3461a549ad8871d054b92d9, type: 3}
+    enemyCount: 26
+    spawnInterval: 1
+    spawnRadius: 7
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 91945ecd734ec85468dab6653d3580d8, type: 3}
+    enemyCount: 28
+    spawnInterval: 1
+    spawnRadius: 7
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 343e7c26a3461a549ad8871d054b92d9, type: 3}
+    enemyCount: 30
+    spawnInterval: 0.8
+    spawnRadius: 7
+  bossPrefab: {fileID: 8535042937010447350, guid: 5189df995376cd34d94d8641ece821d2, type: 3}
+  bossSpawnDelay: 2
+  scoreForThreeStars: 1000
+  healthPercentForTwoStars: 0.5
+  healthPercentForThreeStars: 0.8

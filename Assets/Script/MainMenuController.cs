@@ -8,6 +8,7 @@ public class MainMenuController : MonoBehaviour
 {
     [Header("Scene")]
     [SerializeField] private string gameplaySceneName = "Gameplay";
+    [SerializeField] private string levelSelectSceneName = "LevelSelectScene";
 
     [Header("Panels")]
     [SerializeField] private GameObject settingsPanel;
@@ -51,6 +52,18 @@ public class MainMenuController : MonoBehaviour
         }
 
         UpdateVolumeLabel(AudioListener.volume);
+    }
+
+    public void OpenLevelSelector()
+    {
+
+        if (string.IsNullOrWhiteSpace(levelSelectSceneName))
+        {
+            Debug.LogError("Enter your LevelSelect scene name.");
+            return;
+        }
+
+        SceneManager.LoadScene(levelSelectSceneName);
     }
 
     public void PlayGame()

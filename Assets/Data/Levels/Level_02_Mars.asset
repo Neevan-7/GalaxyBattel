@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b236a3d5789a2b34cb8d89be023023be, type: 3}
+  m_Name: Level_02_Mars
+  m_EditorClassIdentifier: 
+  levelId: 2
+  levelName: Mars Orbit
+  description: Defend Earth from incoming enemies.
+  planetImage: {fileID: 2147408278, guid: 1c9d57633a2ad6e47af78ad20bdd9b16, type: 3}
+  backgroundImage: {fileID: 6526586708526009792, guid: 52795c12692be764ea839eb472b50b91, type: 3}
+  requiredTotalStars: 3
+  waves:
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 5077cf0aa311979498b6ace30ea05d2f, type: 3}
+    enemyCount: 8
+    spawnInterval: 1.2
+    spawnRadius: 7
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 7f9ae02434c97364f99373506c8c97b8, type: 3}
+    enemyCount: 10
+    spawnInterval: 1
+    spawnRadius: 7
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 511b16ce26bbc7b4a8799ebba0e50f09, type: 3}
+    enemyCount: 12
+    spawnInterval: 0.8
+    spawnRadius: 8
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 7f9ae02434c97364f99373506c8c97b8, type: 3}
+    enemyCount: 15
+    spawnInterval: 0.7
+    spawnRadius: 8
+  bossPrefab: {fileID: 8535042937010447350, guid: fa4537ecc5814624baa5a6612871e29f, type: 3}
+  bossSpawnDelay: 1
+  scoreForThreeStars: 1000
+  healthPercentForTwoStars: 0.5
+  healthPercentForThreeStars: 0.8

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b236a3d5789a2b34cb8d89be023023be, type: 3}
+  m_Name: Level_04_Astroid
+  m_EditorClassIdentifier: 
+  levelId: 4
+  levelName: Astroid Belt
+  description: Defend Earth from incoming enemies.
+  planetImage: {fileID: -7274470604317281490, guid: 4fc8876125b99e544b2a2e064c34b3df, type: 3}
+  backgroundImage: {fileID: -1839377291145181718, guid: a7d3f3c9859f1224c97f8c9ad70fa448, type: 3}
+  requiredTotalStars: 3
+  waves:
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 896e680a449de9048a5046a65fd55ae3, type: 3}
+    enemyCount: 12
+    spawnInterval: 1.2
+    spawnRadius: 8
+  - enemyPrefab: {fileID: 8535042937010447350, guid: c37ee6d815323fc41bd2ff6b7536e42c, type: 3}
+    enemyCount: 15
+    spawnInterval: 1
+    spawnRadius: 8
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 013ceb7de3ba6ba45a8df14c8b0067b8, type: 3}
+    enemyCount: 18
+    spawnInterval: 0.8
+    spawnRadius: 7
+  - enemyPrefab: {fileID: 8535042937010447350, guid: c37ee6d815323fc41bd2ff6b7536e42c, type: 3}
+    enemyCount: 20
+    spawnInterval: 0.8
+    spawnRadius: 7
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 013ceb7de3ba6ba45a8df14c8b0067b8, type: 3}
+    enemyCount: 22
+    spawnInterval: 0.8
+    spawnRadius: 7
+  - enemyPrefab: {fileID: 8535042937010447350, guid: c37ee6d815323fc41bd2ff6b7536e42c, type: 3}
+    enemyCount: 20
+    spawnInterval: 0.8
+    spawnRadius: 7
+  bossPrefab: {fileID: 8535042937010447350, guid: fee9bf9d84755bb4c8eec3b98965ab57, type: 3}
+  bossSpawnDelay: 2
+  scoreForThreeStars: 1000
+  healthPercentForTwoStars: 0.5
+  healthPercentForThreeStars: 0.8

@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 29add70f3a497fa45a020a40892e88d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7244603155412615363
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_0"
+  - first:
+      213: -462490640492327535
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_1"
+  - first:
+      213: 8904831138807564644
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_2"
+  - first:
+      213: -1843032462027280413
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_3"
+  - first:
+      213: 861712890447155205
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_4"
+  - first:
+      213: 933603038803849127
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_5"
+  - first:
+      213: 7300139736995098580
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_6"
+  - first:
+      213: 1725715813844556002
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_7"
+  - first:
+      213: -9074255665038376102
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_8"
+  - first:
+      213: 8448685875352220763
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_9"
+  - first:
+      213: -3152192349148918579
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_10"
+  - first:
+      213: -8695275666413777953
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_11"
+  - first:
+      213: -4513249520379467866
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_12"
+  - first:
+      213: -1559611599722243254
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_13"
+  - first:
+      213: -2281479712117651469
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_14"
+  - first:
+      213: -3027168441201621895
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_15"
+  - first:
+      213: -2139645038293951669
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_16"
+  - first:
+      213: -6139285212453091682
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_17"
+  - first:
+      213: -7763638058369947791
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_18"
+  - first:
+      213: -3943328175173316912
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_19"
+  - first:
+      213: 2656477303494526837
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_20"
+  - first:
+      213: 5146425266860761659
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_21"
+  - first:
+      213: -7610169271361685586
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_22"
+  - first:
+      213: -8935484268125352776
+    second: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_23"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Earth Orbit Sci\u2011Fi Ship Asset Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3
+        width: 925
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -311.5, y: 119}
+        - {x: -424.5, y: 37}
+        - {x: -432.5, y: -91}
+        - {x: -305.5, y: -36}
+        - {x: -293.5, y: -125}
+        - {x: -220.5, y: -248}
+        - {x: -35.5, y: -287}
+        - {x: 142.5, y: -259}
+        - {x: 270.5, y: -123}
+        - {x: 389.5, y: -57}
+        - {x: 406.5, y: 47}
+        - {x: 270.5, y: 181}
+        - {x: -14.5, y: 290}
+        - {x: -116.5, y: 264}
+        - {x: -263.5, y: 189}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4357f9519a87f514e9b2bd418046789c
+      internalID: -810049085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 62c197ab1814c5049b070a811b7b0773
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Earth Orbit Sci\u2011Fi Ship Asset Sheet_0": -810049085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

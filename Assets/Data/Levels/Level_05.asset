@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b236a3d5789a2b34cb8d89be023023be, type: 3}
+  m_Name: Level_05
+  m_EditorClassIdentifier: 
+  levelId: 5
+  levelName: Deep Space
+  description: Defend Earth from incoming enemies.
+  planetImage: {fileID: -435043870, guid: 4fc8876125b99e544b2a2e064c34b3df, type: 3}
+  backgroundImage: {fileID: 3709026227032471070, guid: e060b8869f6a2b44597ffaeeda342dfa, type: 3}
+  requiredTotalStars: 3
+  waves:
+  - enemyPrefab: {fileID: 8535042937010447350, guid: ddc3a2e0cec0ee44d921059684bdccbb, type: 3}
+    enemyCount: 15
+    spawnInterval: 1.2
+    spawnRadius: 8
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 1d1a551ea0893e44bb09697851c5ac4c, type: 3}
+    enemyCount: 18
+    spawnInterval: 1
+    spawnRadius: 8
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 527c2546c03b25c4480a9b0e8c4e1f2b, type: 3}
+    enemyCount: 20
+    spawnInterval: 0.8
+    spawnRadius: 8
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 1d1a551ea0893e44bb09697851c5ac4c, type: 3}
+    enemyCount: 22
+    spawnInterval: 1
+    spawnRadius: 7
+  - enemyPrefab: {fileID: 8535042937010447350, guid: 527c2546c03b25c4480a9b0e8c4e1f2b, type: 3}
+    enemyCount: 24
+    spawnInterval: 1.2
+    spawnRadius: 7
+  bossPrefab: {fileID: 8535042937010447350, guid: 60c8530ceeda4714b9d527a7c3922f50, type: 3}
+  bossSpawnDelay: 2
+  scoreForThreeStars: 1000
+  healthPercentForTwoStars: 0.5
+  healthPercentForThreeStars: 0.8

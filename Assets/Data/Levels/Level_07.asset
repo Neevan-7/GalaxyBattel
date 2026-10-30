@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b236a3d5789a2b34cb8d89be023023be, type: 3}
+  m_Name: Level_07
+  m_EditorClassIdentifier: 
+  levelId: 7
+  levelName: Final Frontier
+  description: Defend Earth from incoming enemies.
+  planetImage: {fileID: 1731742307, guid: 4fc8876125b99e544b2a2e064c34b3df, type: 3}
+  backgroundImage: {fileID: -5488803891070740162, guid: ada975c5851b87c4fa0cf82e9228565e, type: 3}
+  requiredTotalStars: 3
+  waves:
+  - enemyPrefab: {fileID: 0}
+    enemyCount: 0
+    spawnInterval: 0
+    spawnRadius: 0
+  bossPrefab: {fileID: 0}
+  bossSpawnDelay: 2
+  scoreForThreeStars: 1000
+  healthPercentForTwoStars: 0.5
+  healthPercentForThreeStars: 0.8

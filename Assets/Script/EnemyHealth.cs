@@ -81,6 +81,12 @@ public class EnemyHealth : MonoBehaviour
         if (dropper != null)
             dropper.DropRandomPowerUp();
 
+        LevelSpawnedEnemy levelEnemy =
+            GetComponent<LevelSpawnedEnemy>();
+
+        if (levelEnemy != null)
+            levelEnemy.ReportDefeated();
+
         Destroy(gameObject);
     }
 }

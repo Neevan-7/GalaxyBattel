@@ -757,7 +757,7 @@ TextureImporter:
         width: 111
         height: 115
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -779,7 +779,7 @@ TextureImporter:
         width: 97
         height: 102
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -788,6 +788,28 @@ TextureImporter:
       bones: []
       spriteID: a9174649d63ab8141adae26f3a80f5a6
       internalID: -308939831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neon Sci-Fi Game UI Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 752
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57f830e9c20fca4ba99360a02a4da30
+      internalID: -634313903
       vertices: []
       indices: 
       edges: []
@@ -817,6 +839,7 @@ TextureImporter:
       Neon Sci-Fi Game UI Sprite Sheet_25: -12747454
       Neon Sci-Fi Game UI Sprite Sheet_26: -81434384
       Neon Sci-Fi Game UI Sprite Sheet_27: -308939831
+      Neon Sci-Fi Game UI Sprite Sheet_28: -634313903
       Neon Sci-Fi Game UI Sprite Sheet_4: -96676790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
